@@ -2,7 +2,7 @@
 17/10/2020
 
 ### Project Title
-Explore US Bikeshare Data
+Explore US Bikeshare Data by Caner Ozturk
 
 ### Description
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
